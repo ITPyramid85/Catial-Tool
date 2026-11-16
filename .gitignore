@@ -1,0 +1,26 @@
+## Build
+**/bin/
+**/obj/
+**/out/
+dist/
+_preview/
+
+## Generated output
+output/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## IDE / OS
+.vs/
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
+
+## Logs / temp
+*.log
+*.tmp
+*.cache
